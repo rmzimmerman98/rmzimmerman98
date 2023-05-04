@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Randall Zimmerman</h1>
 <h3 align="center">A passionate backend developer from Las Vegas, Nevada</h3>
 
-- 🔭 I’m currently working on **a Task Manager**
+- 🔭 I’m currently working on **refining old projects.**
 
 - 🌱 I’m currently learning **Python and SQL.**
 
